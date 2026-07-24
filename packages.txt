@@ -1,0 +1,4 @@
+# System-level packages for Streamlit Cloud deployment.
+# This project is pure Python, so no system packages are required.
+# This file is kept as a placeholder — Streamlit Cloud will simply
+# skip installation if this file is empty or contains only comments.
