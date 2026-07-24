@@ -13,7 +13,9 @@ suggested_hardware: "t4-small"
 Live demo: https://huggingface.co/spaces/Tariq349/Whatsapp-outreach-G
 
 <img width="950" height="478" alt="image" src="https://github.com/user-attachments/assets/a43e3e23-59f3-4708-b476-fa5c64149ec9" />
+
 <img width="938" height="474" alt="image" src="https://github.com/user-attachments/assets/4b7fbcd3-f474-4343-bddb-f64b986b63db" />
+
 <img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/385b6d24-6b9a-40f2-baba-a81ac71f6d3d" />
 
 
